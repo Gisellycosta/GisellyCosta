@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩‍💻 Olá! sou Giselly Costa
 
-<!--
-**Gisellycosta/GisellyCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudante de Programação | Tecnologia da Informação
 
-Here are some ideas to get you started:
+Sou estudante de **Programação de Sistemas** e já concluí um curso de **Operador de Computador**. Tenho interesse em tecnologia, desenvolvimento de sistemas e aprendizado contínuo, buscando aprimorar minhas habilidades e construir minha carreira na área de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação
+
+-  **Programação de Sistemas** — em andamento
+-  **Operador de Computador** — concluído
+-  **Ensino Medio** - em andamento
+-  
+## 🛠️ Habilidades
+- Desenvolvimento de sistemas
+- Programação e lógica computacional
+- Desenvolvimento de soluções tecnológicas
+-  Linguagem html css
+
+## 🌱 Objetivos profissionais
+
+Busco desenvolver meus conhecimentos técnicos, adquirir experiência prática e aproveitar oportunidades que contribuam para meu crescimento profissional na área de tecnologia.
+
+
+
+
+
+
